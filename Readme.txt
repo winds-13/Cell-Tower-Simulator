@@ -1,3 +1,5 @@
+a real-time cell tower simulator with a graphical interface modelling the movement of cars driving in a city and connecting to one of seven cell towers when within their radius using threads, signals and TCP sockets in C and Concurrent Computing concepts 
+
 name:
 	Henry Tu
 
